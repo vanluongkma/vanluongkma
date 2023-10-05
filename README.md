@@ -1,7 +1,7 @@
 <div align="center">
   
 
-<img src="https://readme-typing-svg.herokuapp.com?lines=___________________________________________________Patriot___________________________________________________;&center=true&width=500&height=50">
+<img src="https://readme-typing-svg.herokuapp.com?lines=_______________________________________________________Patriot___________________________________________________;&center=true&width=500&height=50">
 
 - <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I’m @patriot
 - 👀 I’m interested in crypto
