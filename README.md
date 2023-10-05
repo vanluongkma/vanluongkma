@@ -1,8 +1,7 @@
 <div align="center">
   
-# **patriot** </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+# **patriot**
 
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 - <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I’m @patriot
 - 👀 I’m interested in crypto
@@ -34,6 +33,4 @@ You can click the Preview link to take a look at your changes.
 <img height="50" width="50" (href="https://www.facebook.com/profile.php?id=100090768936726") src="https://user-images.githubusercontent.com/52845731/209470643-20367888-9bc4-4e38-b6a0-563a4be58a1a.png" hspace="10"/>
 </div>
  
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
-  
 <p align="center"><a href="https://github.com/a3x3k"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>  
