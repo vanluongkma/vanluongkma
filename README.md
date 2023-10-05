@@ -18,10 +18,7 @@ You can click the Preview link to take a look at your changes.
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cambria&color=%231B0EF7&center=true&vCenter=true&lines=%3C%2F+With+%E2%9D%A4%EF%B8%8Ffrom+KMA+in+VIETNAM+%5C%3E)](https://git.io/typing-svg)
 
 <p align="center">
-  <a>
   
-![snake gif](https://github.com/a3x3k/a3x3k/blob/output/github-contribution-grid-snake.svg)
-
 </div>
 
 **Connect With Me <a target="_blank">**
