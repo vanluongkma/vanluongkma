@@ -3,11 +3,16 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?lines=_______________________________________________________Patriot___________________________________________________;&center=true&width=500&height=50">
 
-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I’m @patriot
-- 👀 I’m interested in crypto
-- 🌱 I’m currently learning KMA
-- 💞️ I’m looking to collaborate on [`Here`](https://github.com/piropatriot)
-- 📫contact : piropatriot@gmail.com
+<a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I’m @patriot
+></a>
+<a> 👀 I’m interested in crypto 
+></a>
+<a> 🌱 I’m currently learning KMA 
+></a>
+<a> 💞️ I’m looking to collaborate on [`Here`](https://github.com/piropatriot) 
+></a>
+<a> 📫contact : piropatriot@gmail.com 
+</a>
 
 <!---
 piropatriot/piropatriot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
