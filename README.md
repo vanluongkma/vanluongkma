@@ -1,24 +1,23 @@
-<div align="center">
+
   
 
-<img src="https://readme-typing-svg.herokuapp.com?lines=_______________________________________________________luongdv___________________________________________________;&center=true&width=500&height=50">
 
-<a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I’m @luongdv
-></a>
-<a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m interested in crypto 
-></a>
-<a> 🌱 I’m currently learning KMA 
-></a>
-<a> 💞️ I’m looking to collaborate on [`Here`](https://github.com/luongdv35) 
-></a>
-<a> 📫contact : luongdv35@gmail.com
-</a>
+<h4 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I’m luongdv
+</h4>
+
+## A student and a CTF player who interested in Cryptography
+ - 🌱 I’m currently learning KMA 
+
+ - 📝 I regularly write articles on [**luongdv Blog**](https://hackmd.io/@luongdv) 
+
+ - 📫 How to reach me : **dinhvanluong2k4@gmail.com**
+
 
 <!---
 piropatriot/piropatriot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<div align="center">
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cambria&color=%231B0EF7&center=true&vCenter=true&lines=%3C%2F+With+%E2%9D%A4%EF%B8%8Ffrom+KMA+in+VIETNAM+%5C%3E)](https://git.io/typing-svg)
 
@@ -38,4 +37,3 @@ You can click the Preview link to take a look at your changes.
 
 
 <p align="center"><a href="https://github.com/a3x3k"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
