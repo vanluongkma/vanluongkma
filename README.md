@@ -16,6 +16,8 @@ _Visit website: [vanluongkma.github.io](https://vanluongkma.github.io/)_
 
 <div align="center">
   
-_[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cambria&color=%231B0EF7&center=true&vCenter=true&lines=%3C%2F+With+%E2%9D%A4%EF%B8%8Ffrom+KMA+in+VIETNAM+%5C%3E)](https://git.io/typing-svg)_
+_[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cambria&color=%231B0EF7&center=true&vCenter=true&lines=%3C%2F+With+%E2%9D%A4%EF%B8%8Ffrom+KMA+in+VIETNAM+%5C%3E&speed=0.5)](https://git.io/typing-svg)_
 
 </div>
+
+
