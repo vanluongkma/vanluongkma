@@ -1,4 +1,4 @@
-### About me:
+#### _About me_
 
 _My name is Luong, also know under my nickname **vanluongkma**_
 
@@ -20,4 +20,20 @@ _[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cambria&color=%231B
 
 </div>
 
-
+#### _Contact Me_
+<a href="https://www.linkedin.com" target="_blank">
+  <img align="left" alt="LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+</a>
+<a href="https://twitter.com/vanluong04_" target="_blank">
+  <img align="left" alt="vanluong Twitter" width="30px" src="https://img.icons8.com/color/48/000000/twitter.png"/>
+</a>
+<a href="https://muhdaffa.medium.com/" target="_blank">
+  <img align="left" alt="Medium" width="30px" src="https://img.icons8.com/color/48/000000/medium-monogram.png" />
+</a>
+<a href="https://vanluongkma.github.io" target="_blank">
+  <img align="left" alt="vanluongkma Website" width="30px" src="https://img.icons8.com/color/48/000000/domain.png" />
+</a>
+<a href="mailto:dinhvaluong2k4@gmail.com" target="_blank">
+  <img align="left" alt="vanluong E-Mail" width="30px" src="https://img.icons8.com/color/48/000000/email.png" />
+</a>
+<br>
