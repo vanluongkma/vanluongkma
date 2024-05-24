@@ -10,7 +10,7 @@ _In my opinion, if you want to learn Cryptography, you must have a strong enough
  
 _Math is the premise theory, and Computer Science is where Cryptography is applied._
 
-_I regularly write articles on [**hackmd**](https://hackmd.io/@vanluongkma)_
+_I regularly write articles on [**hackmd**](https://hackmd.io/@vanluong504)_
   
 _Visit website: [vanluong504.github.io](https://vanluongkma.github.io/)_
 
