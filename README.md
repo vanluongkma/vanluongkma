@@ -1,6 +1,6 @@
 #### _About me_
 
-_My name is Luong, also know under my nickname **vanluong504**_
+_My name is Luong, also know under my nickname **vanluongkma**_
 
 _A student and a CTF player who interested in Cryptography. Seeking an internship opportunity in SOC – Security Operation Center_
  
@@ -10,9 +10,9 @@ _In my opinion, if you want to learn Cryptography, you must have a strong enough
  
 _Math is the premise theory, and Computer Science is where Cryptography is applied._
 
-_I regularly write articles on [**hackmd**](https://hackmd.io/@vanluong504)_
+_I regularly write articles on [**hackmd**](https://hackmd.io/@vanluongkma)_
   
-_Visit website: [vanluong504.github.io](https://vanluongkma.github.io/)_
+_Visit website: [vanluongkma.github.io](https://vanluongkma.github.io/)_
 
 <div align="center">
   
