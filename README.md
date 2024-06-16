@@ -21,7 +21,7 @@ _[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cambria&color=%231B
 </div>
 
 #### _Contact Me_
-<a href="https://www.linkedin.com" target="_blank">
+<a href="http://linkedin.com/in/văn-lượng-0b04492bb" target="_blank">
   <img align="left" alt="LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
 </a>
 <a href="https://twitter.com/vanluong04_" target="_blank">
