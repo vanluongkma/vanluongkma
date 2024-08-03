@@ -10,7 +10,7 @@ _In my opinion, if you want to learn Cryptography, you must have a strong enough
  
 _Math is the premise theory, and Computer Science is where Cryptography is applied._
 
-_My favorite programming languages are JavaScript and Python, and I'm also familiar with Java, C, C++, and PHP._ 
+_My favorite programming languages are Python, and I'm also familiar with C and C++._ 
 
 _I regularly write articles on [**hackmd**](https://hackmd.io/@vanluongkma)_
   
